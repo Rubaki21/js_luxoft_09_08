@@ -1,0 +1,61 @@
+/* p {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 150px;
+    padding: 20px;
+    border: 5px solid black;;
+}
+span {
+    background-color: red;
+    display: block;
+}
+div {
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    margin: 100px;
+    padding: 10px;
+    overflow: hidden;
+} */
+
+/* div {
+    width: 100px;
+    height: 100px;
+}
+
+.first {
+    background-color: red;
+    
+}
+
+.second {
+    background-color: green;
+    width: 150px;
+    position: relative;
+    /* position: absolute;
+    top: 0px;
+    left: 100px; 
+}
+
+.third {
+    background-color: blue;
+}
+.inner {
+    background-color: yellowgreen;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 40px;
+} */
+
+/* div {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    transition: 1s;
+}
+
+div:hover {
+    background-color: green;
+} */
