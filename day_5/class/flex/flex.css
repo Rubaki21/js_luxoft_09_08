@@ -1,0 +1,16 @@
+.container {
+    height: 500px;
+    display: flex;
+    background-color: coral;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+p {
+    width: 100px;
+    /* height: 100px; */
+    background-color: greenyellow;
+    margin: 10px;
+}
+
