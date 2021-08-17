@@ -1,0 +1,1 @@
+(()=>{"use strict";globalThis.count=function(){let e=0,t=!1,c=()=>e++;return document.addEventListener("click",c),{destroy(){document.removeEventListener("click",c),t=!0},getData:()=>t?"The clicker is already destroyed":e}}()})();

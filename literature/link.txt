@@ -1,1 +1,2 @@
 https://learn.javascript.ru/https://learn.javascript.ru/
+https://github.com/airbnb/javascript
